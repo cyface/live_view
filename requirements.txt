@@ -1,0 +1,4 @@
+channels
+django
+django-reactor
+pypiwin32
